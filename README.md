@@ -1,17 +1,8 @@
-# prak_dbs
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# todoapps
+#Nama: Farrel Fabian Putra (2390343043) & Afif Adiba (23903430)
+#Judul: Todo Application
+#Deskripsi Fungsionalitas Aplikasi:
+- Menambah catatan tugas (task).
+- Mengedit catatan tugas yang sudah ada.
+- Menghapus catatan tugas.
+- Menandai tugas sebagai selesai atau belum selesai.
+- Menyortir tugas berdasarkan status atau tanggal.
